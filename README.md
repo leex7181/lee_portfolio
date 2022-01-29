@@ -7,7 +7,7 @@ Example data science portfolio
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 
-![](https://github.com/PlayingNumbers/ball_image_classifier/blob/master/matrix_results.png)
+![](https://github.com/leex7181/lee_portfolio/blob/main/images/positions_by_state.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier/blob/master/README.md)
